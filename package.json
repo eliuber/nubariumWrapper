@@ -1,0 +1,17 @@
+{
+  "name": "info.android.plugins.nubarium_native",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "info.android.plugins.nubarium_native",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "elvhe\u001b[D\u001b[C\u001b[C",
+  "license": "ISC"
+}
